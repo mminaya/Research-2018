@@ -144,17 +144,4 @@ wilcox.test(GFP_4$AP,AS_4$AP, mu=0, alt= "two.sided",
 # where y and x are numeric
 # this test was used because the As dataset was not normally distributed!
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ```
